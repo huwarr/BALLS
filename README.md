@@ -25,7 +25,7 @@ If you hit the line of the same-colored balls, they will be highlited for a whil
 
 Afterwards, your score gets recounted (if needed), your cursor get set at the default position, and one randomly-colored ball appears on random free cell. If accidentally "the line" gets complete, reset happens again.
 
-4. Game ends in to conditions.
+4. Game ends in two conditions.
 
 First: you clear the board - YOU WIN
 
