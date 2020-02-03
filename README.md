@@ -25,8 +25,10 @@ If you hit the line of the same-colored balls, they will be highlited for a whil
 
 Afterwards, your score gets recounted (if needed), your cursor get set at the default position, and one randomly-colored ball appears on random free cell. If accidentally "the line" gets complete, reset happens again.
 
-4. Game ends in two conditions.
+4. Game ends in three conditions.
 
-First: you clear the board - YOU WIN
+First (EMERGENCY EXIT): if you hit "Space" button, the game will fifnish. You will get a message about game interruption and you score.
 
-Second: the is no free space left on the board, and no lines to hit - YOU LOSE
+Second: you clear the board - YOU WIN
+
+Third: the is no free space left on the board, and no lines to hit - YOU LOSE
